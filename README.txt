@@ -1,6 +1,6 @@
 Change log of fork emreberge/simple-window-saver
 ===
-* Command+Ctrl+N opens extension popup
+* Command+Ctrl+M opens extension popup
 * Tab: Switches between window selections in the popup
 * Enter: Selects focused window
 
